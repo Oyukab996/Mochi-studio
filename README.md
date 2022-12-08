@@ -1,1 +1,1 @@
-# Mochi-studio
+# Mochistudio
