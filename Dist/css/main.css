@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: 'Roboto Flex', sans-serif;
+  line-height: 1.6;
+  background: #fff; }
+
+a {
+  text-decoration: none;
+  color: #333; }
+
+ul {
+  list-style: none; }
+
+h2, h3, h4 {
+  text-transform: uppercase; }
+
+img {
+  width: 100vh; }
+
+#logo {
+  width: 135px;
+  height: 65px;
+  margin: 0 20px; }
+
+#header-home {
+  background: url(/IMG/A8_qL6gU.jpeg) no-repeat center right/cover;
+  height: 100vh;
+  color: #f9f9f9; }
